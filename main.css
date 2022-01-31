@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+}
+
+
+header {
+    background: #FF0000;
+    height: 100px;
+}
+
+
+.menuHeader ul {
+    display: flex;
+    font-size: 40px;
+    list-style: none;
+}
+
+.menuHeader li {
+    margin-right: auto;
+    margin-left: auto;
+    white-space: nowrap;
+}
+
+.menuHeader a {
+    color: #000000;
+    text-decoration: none;
+}
